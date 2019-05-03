@@ -18,3 +18,12 @@ Code from this section of the talk is found [here](https://github.com/twitterdev
 - [Learn more about the live coding movement](https://toplap.org/)
 
 - [Slides from Kate Sicchio on the history of livecoding](https://docs.google.com/presentation/d/1ZsGmf3DY4was4hMedoTPXM6DtZ5pa6j8Z0D3YHQngMk/edit?usp=sharing)
+
+## Hear my music
+- [Bandcamp](https://messicaarson.bandcamp.com/)
+- [SoundCloud](https://soundcloud.com/user-117777371/sswf)
+
+## Events happening soon in New York
+- [I'm giving a workshop at on May 12th](https://www.facebook.com/events/603704750144744/)
+
+- [See me play at Wonderville](https://www.facebook.com/events/498296570706074/)
