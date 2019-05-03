@@ -20,4 +20,4 @@ Code from this section of the talk is found [here](https://github.com/twitterdev
 
 ## Events happening soon in New York
 - [I'm giving a workshop at on May 12th](https://www.facebook.com/events/603704750144744/)
-- [See me play at Wonderville](https://www.facebook.com/events/498296570706074/) on May 10th.
+- [See me play at Wonderville](https://www.facebook.com/events/498296570706074/) on May 10th
