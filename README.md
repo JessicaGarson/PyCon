@@ -1,5 +1,5 @@
 # PyCon
-Slides for this talk are found [here](pycon-making-music.glitch.me). 
+Slides for this talk are found [here](pycon-making-music.glitch.me).
 
 ## Making music together code 
 Code from this section of the talk is found [here](https://github.com/twitterdev/make-music-together/).
